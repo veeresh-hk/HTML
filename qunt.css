@@ -1,0 +1,52 @@
+h1{
+    color: blueviolet;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.hk{
+    background:url(https://play-lh.googleusercontent.com/Dt7MIZlAtcsCbyaBVDcsbqfxBbkZ9SbwSgOCB03zK8TnU1-u5srJcVJ8PfsJ5t2t6X9B);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aqua;
+}
+.sh{
+    border-style:solid;
+    border-color:firebrick;
+    border-width: 2px;
+    font-size:xx-large;
+}
+
+
+#s{
+    color:darkorange;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    font-style: italic;
+    
+}
+.veeru{
+    background-color:black;
+    text-align: left;
+    color: aliceblue;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h6{
+    color: rgb(164, 255, 6);
+    text-align: center;
+    
+}
+#v{
+    color:aqua;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#h{
+    color: fuchsia;
+    font-size: x-large;
+}
+h3{
+    font-style:italic;
+    color: cyan;
+}
